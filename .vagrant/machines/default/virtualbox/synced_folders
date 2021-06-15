@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/hmtl":{"guestpath":"/var/www/hmtl","hostpath":"/Users/jamiek/Downloads/sslvagrant","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/jamiek/Downloads/sslvagrant","disabled":false,"__vagrantfile":true}}}
