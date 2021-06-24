@@ -1,0 +1,23 @@
+{
+  "name": "sslvagrant",
+  "version": "1.0.0",
+  "description": "SSL Vagrant based project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JJKneiss/Server-Side-Languages.git"
+  },
+  "author": "Jamie K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JJKneiss/Server-Side-Languages/issues"
+  },
+  "homepage": "https://github.com/JJKneiss/Server-Side-Languages#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "request": "^2.88.2"
+  }
+}
