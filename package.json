@@ -18,6 +18,7 @@
   "homepage": "https://github.com/JJKneiss/Server-Side-Languages#readme",
   "dependencies": {
     "ejs": "^3.1.6",
+    "express-session": "^1.17.2",
     "request": "^2.88.2"
   }
 }
